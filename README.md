@@ -28,7 +28,7 @@
 
 - Using "docker login" I logged into my Docker Hub through CLI 
 
-- Through the repository I set two Github Secrets. These secrets were my Username and Password / access token 
+- Through the repository I set two Github Secrets. These secrets were my Username and Password / access token (DOCKER_USERNAME / DOCKER_TOKEN)
 
 - Configuring Workflow, I added by repo "chadwellj/project" into the template given. And ensured that it would push main branch.
 
