@@ -8,7 +8,7 @@
 
 # Part 1
 
-- Began by cloning repo with "it clone git@github.com:WSU-kduncan/cicd-chadwellj.git"
+- Began by cloning repo with "git clone git@github.com:WSU-kduncan/cicd-chadwellj.git"
 
 - Following the guide I installed docker from "https://docs.docker.com/desktop/windows/install/"
 
@@ -38,4 +38,4 @@
 
 - Pull with "sudo docker pull chadwellj/project:main"
 
-- Run with "sudo docker run -dp 80:80 --name project6 chadwellj/project:main"
+- Run with "sudo docker run -dp 80:80 --name projectest chadwellj/project:main"
